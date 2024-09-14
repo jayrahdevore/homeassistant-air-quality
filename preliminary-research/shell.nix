@@ -9,6 +9,7 @@ pkgs.mkShell {
     arduino-cli
     arduino
     pythonEnv
+    black
   ];
 }
 
