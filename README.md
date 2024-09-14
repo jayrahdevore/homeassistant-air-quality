@@ -7,9 +7,9 @@
     - [x] Basic device discovery
     - [x] Device discovery w/ description and fields
     - [x] Publish fake data to Home Assistant
-- [ ] Proof of Concept
-  - [ ] Combine data from both sensors and send over serial
-  - [ ] Read data from serial and publish over MQTT
+- [x] Proof of Concept
+  - [x] Combine data from both sensors and send over serial
+  - [x] Read data from serial and publish over MQTT
 - [ ] Productize using Pico W
   - [ ] Send device discovery and fake data over MQTT
   - [ ] Wire up sensors to Pico W
